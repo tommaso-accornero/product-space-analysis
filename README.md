@@ -2,7 +2,7 @@
 
 [View full analysis](https://htmlpreview.github.io/?https://github.com/tommaso-accornero/product-space-analysis/blob/main/product_space_analysis.html)
 
-A structural network analysis of the **Product Space** (Hidalgo & Hausmann, 2007), 
+A structural network analysis of the **Product Space** (Hidalgo et al. (2007)), 
 reproducing and extending the original paper's findings using Python and NetworkX.
 
 ![The Product Space Network](images/product_space_network.png)
@@ -42,7 +42,14 @@ Python · NetworkX · Pandas · NumPy · Matplotlib
 Coscia, M. & Hidalgo, C.A. — The Product Space (SITC classification)  
 Source: [icon.colorado.edu](https://icon.colorado.edu)
 
-## Reference
+## References
 
-Hidalgo, C.A., Klinger, B., Barabási, A.L., & Hausmann, R. (2007).  
-The Product Space Conditions the Development of Nations. *Science*, 317, 482–487.
+Hidalgo, C.A., Klinger, B., Barabási, A.L., & Hausmann, R. (2007). The Product Space 
+Conditions the Development of Nations. *Science*, 317(5837), 482–487. 
+https://doi.org/10.1126/science.1144581
+
+Coscia, M. (2012). The Product Space Dataset (SITC classification). 
+https://www.michelecoscia.com/?page_id=223
+
+Kolic, B. (2025). UC3M Networks Workshop. 
+https://github.com/blas-ko/uc3m_networks_workshop_2025
