@@ -2,10 +2,10 @@
 
 [View full analysis](https://htmlpreview.github.io/?https://github.com/tommaso-accornero/product-space-analysis/blob/main/product_space_analysis.html)
 
-![The Product Space Network](images/product_space_network.png)
-
 A structural network analysis of the **Product Space** (Hidalgo & Hausmann, 2007), 
 reproducing and extending the original paper's findings using Python and NetworkX.
+
+![The Product Space Network](images/product_space_network.png)
 
 ## What is the Product Space?
 
